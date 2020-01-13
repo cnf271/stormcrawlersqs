@@ -1,5 +1,9 @@
-# stormcrawlersqs
+# StormcrawlerSQS
  StormCrawler with SQS
+ 
+ ![ ](https://github.com/cnf271/stormcrawlertest/blob/master/src/main/resources/article-2-image.png)
+ 
+ [Medium Article](medium.com/@cnf271/running-stormcrawler-continuously-in-local-mode-without-a-storm-cluster-22e1aef72198)
  
  Run two instances separately using following commands.
  
